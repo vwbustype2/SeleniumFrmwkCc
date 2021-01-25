@@ -1,0 +1,8 @@
+This is a new file I've created on a New Branch.
+I want to check the following scenario :
+        I make changes to my branch
+        I Push those changes to my remote Branch
+        I create a pull request for someone to review my changes.
+        In the meantime, other people have made changes and thos changes have been merged to master.
+        While I am waiting for My changes to be reviewed, I want to take a new Branch
+         - so that I will have the latest updates from Maaster, plus my updates that are not yet merged to Master
